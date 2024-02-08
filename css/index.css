@@ -1,23 +1,19 @@
 .logo {
 	 float: left;
 }
- nav {
-	 float: right;
-}
- nav ul {
-	 margin: 0;
-	 padding: 0;
-	 list-style: none;
+ .nav1{
+	 margin: 50px;
+	 padding: 90px;
 }
  nav li {
 	 display: inline-block;
 }
  body {
-	 background: #000000;
+	 background: #3b1313;
 	 color: #fff;
 }
  a {
-	 color: #808000
+	 color: #380a0a
 }
  h1 {
 	 color: #008080
@@ -28,3 +24,79 @@
  ol {
 	 color: #008000
 }
+.button {
+	background:rgb(96, 59, 81);
+	color: rgb(255, 200, 234);
+	}
+	.log {
+position: absolute;
+left: 200px;
+top: 120px;
+	}
+	.ob {
+		position: absolute;
+		left: 180px;
+		top: 230px;
+		background:rgb(96, 59, 81);
+	color: rgb(255, 200, 234);		
+	}
+	.git {
+		position: absolute;
+		left: 500px;
+		top: 120px;
+	}
+	.g {
+		position: absolute;
+		left: 532px;
+		top: 230px;
+		background:rgb(96, 59, 81);
+		color: rgb(255, 200, 234);		
+	}
+    .mac {
+		position: absolute;
+		left: 750px;
+		top: 120px;
+	}
+	.m {
+		position: absolute;
+		left: 772px;
+	    top: 230px;
+		background:rgb(96, 59, 81);
+		color: rgb(255, 200, 234);		
+	}
+	.win {
+		position: absolute;
+		left: 1050px;
+		top: 120px;
+	}
+	.w {
+		position: absolute;
+		left: 1060px;
+	    top: 230px;
+		background:rgb(96, 59, 81);
+		color: rgb(255, 200, 234);		
+	}
+	.doc {
+		position: absolute;
+		left: 350px;
+		top: 500px;
+	}
+	.d {
+		position: absolute;
+		left: 395px;
+	    top: 670px;
+		background:rgb(96, 59, 81);
+		color: rgb(255, 200, 234);		
+	}
+	.cc {
+		position: absolute;
+		left: 850px;
+		top: 500px;
+	}
+	.c {
+		position: absolute;
+		left: 950px;
+	    top: 670px;
+		background:rgb(96, 59, 81);
+		color: rgb(255, 200, 234);		
+	}		

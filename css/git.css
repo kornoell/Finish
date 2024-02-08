@@ -1,33 +1,15 @@
-body {
-    font-size: 24px;
+.body {
+    background: linear-gradient(rgb(173, 141, 141), rgb(154, 98, 131));
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-size: 24px;      
 }
 .red {
-    color: red;
+color: rgb(112, 11, 11);
 }
 .blue {
-    color: blue;
+color: rgb(8, 8, 107);
 }
-li.green {
-    color: red;
-}
-li.red {
-    color: blue;
-}
-li.blue {
-    color: green;
-}
-ul ol li.red {
-    color: cyan;
-}
-ul ol li.green {
-    color: orange;
-}
-ul ol li.blue {
-    color: magenta;
-}
-p.italic {
-    font-weight: italic;
-}
-p.bold {
-    font-style: bold;
+.button {
+background:rgb(96, 59, 81);
+color: rgb(255, 200, 234);
 }
